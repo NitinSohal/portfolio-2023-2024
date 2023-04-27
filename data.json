@@ -1,0 +1,121 @@
+[
+  {
+    "id": "drp",
+    "title": "MeetCove",
+    "details": {
+      "description": "MeetCove is a video conferencing and online meeting platform. It allows users to connect and communicate with others through high-quality real-time audio and video calls.",
+      "summary": "React Video Call App"
+    },
+    "date": "April 2022",
+    "roles": [
+      "Maintainer",
+      "Full Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "id": "oamc",
+    "title": "ChatCircle",
+    "details": {
+      "description": "A chat app is a software application that enables users to communicate with each other through text messages in real-time. These apps can be used on a variety of devices, including smartphones, tablets, and computers.",
+      "summary": "React Chat App"
+    },
+    "date": "Jul 2022",
+    "roles": [
+      "Maintainer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "id": "keyc",
+    "title": "TuneRider",
+    "details": {
+      "description": "A music playeris an application used to play audio files such as MP3, AAC, WAV, and FLAC.It has a user-friendly interface that allows users to organize and play their music library.",
+      "summary": "Music Player"
+    },
+    "date": "Feb 2023",
+    "roles": [
+      "Maintainer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "id": "pct",
+    "title": "Weather Wizard",
+    "details": {
+      "description": "A simple weather app created using React.js that displays the current weather for a given location.",
+      "summary": "React Weather App"
+    },
+    "date": "July 2022",
+    "roles": [
+      "UI/UX Designer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://nitinsohal.github.io/Weather-Wizard/"
+      }
+    ]
+  },
+  {
+    "id": "slam",
+    "title": "Graphic Projects",
+    "details": {
+      "description": "Proficient in Adobe Creative Suite, including Photoshop, Illustrator and figma. Experienced in creating vector graphics, raster graphics.",
+      "summary": "Graphic Portfolio"
+    },
+    "date": "Apr 2023",
+    "roles": [
+      "Graphic Designer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.behance.net/nitinsohal"
+      }
+    ]
+  },
+  {
+    "id": "v1",
+    "title": "Portfolio 2023-2024",
+    "details": {
+      "description": "My personal portfolio website with a full showcase of my old projects.",
+      "summary": "Personal Portfolio"
+    },
+    "date": "May 2022",
+    "roles": [
+      "Graphic Designer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "/"
+      }
+    ]
+  }
+]
